@@ -1,2 +1,2 @@
 # TrussCalculator
-C# wpf project for calculating planar triangular trusses
+C# wpf project for calculating tension in planar triangular trusses
